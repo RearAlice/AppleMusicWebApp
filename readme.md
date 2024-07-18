@@ -14,7 +14,7 @@
 > Apple Musicと連動して楽曲を検索し、楽曲をフルで再生できるWebアプリを作成するには、Apple Music APIを使用します。Apple Music APIは、楽曲、アルバム、アーティストなどの情報を取得するためのAPIです。Apple Music APIを利用するためには、Apple Developerアカウントが必要です。
 
 # Requirement
-- Apple Music API
+- [Apple Music API](https://developer.apple.com/documentation/applemusicapi)
 - [Firebase JWT GitHub](/libs/php-jwt/README.md)
 
 # Usage
