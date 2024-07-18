@@ -15,7 +15,7 @@
 
 # Requirement
 - Apple Music API
-- [Firebase JWT GitHub](/RearAlice/php-jwt)
+- [Firebase JWT GitHub](/libs/php-jwt/README.md)
 
 # Usage
 
